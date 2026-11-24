@@ -1,0 +1,11 @@
+{
+  "leaves": [
+    {"leave_id":"L-1001","employee_email":"ananya.rao@demo.com","leave_type":"Annual","start_date":"2026-11-25","end_date":"2026-11-26","day_count":2,"half_day":false,"status":"Applied","approval_status":"Approved","last_updated":"2026-11-12T09:30:00"},
+    {"leave_id":"L-1002","employee_email":"rohan.kumar@demo.com","leave_type":"Annual","start_date":"2026-11-27","end_date":"2026-12-01","day_count":3,"half_day":false,"status":"Applied","approval_status":"Approved","last_updated":"2026-11-12T10:00:00"},
+    {"leave_id":"L-1003","employee_email":"kiran.patel@demo.com","leave_type":"Annual","start_date":"2026-12-02","end_date":"2026-12-04","day_count":3,"half_day":false,"status":"Applied","approval_status":"Pending","last_updated":"2026-11-15T11:20:00"},
+    {"leave_id":"L-1004","employee_email":"arjun.das@demo.com","leave_type":"Annual","start_date":"2026-12-09","end_date":"2026-12-10","day_count":2,"half_day":false,"status":"Tentative","approval_status":"Pending","last_updated":"2026-11-16T14:05:00"},
+    {"leave_id":"L-1005","employee_email":"ananya.rao@demo.com","leave_type":"Annual","start_date":"2026-12-15","end_date":"2026-12-18","day_count":4,"half_day":false,"status":"Tentative","approval_status":"Pending","last_updated":"2026-11-17T09:10:00"},
+    {"leave_id":"L-1006","employee_email":"rohan.kumar@demo.com","leave_type":"Annual","start_date":"2026-12-14","end_date":"2026-12-15","day_count":2,"half_day":false,"status":"Cancelled","approval_status":"Pending","last_updated":"2026-11-18T16:40:00"},
+    {"leave_id":"L-1007","employee_email":"arjun.das@demo.com","leave_type":"Annual","start_date":"2026-11-30","end_date":"2026-12-01","day_count":2,"half_day":false,"status":"Applied","approval_status":"Approved","last_updated":"2026-11-19T10:15:00"}
+  ]
+}
