@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {"employee_id":"E001","name":"Ravi Menon","email":"ravi.menon@demo.com","team_code":"PAY","designation":"Product Owner","manager_email":"","skills":[]},
+    {"employee_id":"E002","name":"Ananya Rao","email":"ananya.rao@demo.com","team_code":"PAY","designation":"Developer","manager_email":"ravi.menon@demo.com","skills":[{"skill":"Java","level":3},{"skill":"Reporting","level":4}]},
+    {"employee_id":"E003","name":"Rohan Kumar","email":"rohan.kumar@demo.com","team_code":"PAY","designation":"Developer","manager_email":"ravi.menon@demo.com","skills":[{"skill":"Java","level":4},{"skill":"Code Review","level":4}]},
+    {"employee_id":"E004","name":"Kiran Patel","email":"kiran.patel@demo.com","team_code":"PAY","designation":"Developer","manager_email":"ravi.menon@demo.com","skills":[{"skill":"Java","level":4},{"skill":"Payments API","level":3}]},
+    {"employee_id":"E005","name":"Meera Shah","email":"meera.shah@demo.com","team_code":"PAY","designation":"Developer","manager_email":"ravi.menon@demo.com","skills":[{"skill":"Java","level":4},{"skill":"Payments API","level":2},{"skill":"Reporting","level":3},{"skill":"Code Review","level":3}]},
+    {"employee_id":"E006","name":"Arjun Das","email":"arjun.das@demo.com","team_code":"PAY","designation":"Developer","manager_email":"ravi.menon@demo.com","skills":[{"skill":"Java","level":2}]}
+  ]
+}
