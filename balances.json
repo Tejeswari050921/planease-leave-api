@@ -1,0 +1,11 @@
+{
+  "balances": [
+    {"employee_email":"ananya.rao@demo.com","leave_type":"Annual","year":2026,"total":18,"used":6,"pending":0,"available":12},
+    {"employee_email":"ananya.rao@demo.com","leave_type":"Sick","year":2026,"total":6,"used":0,"pending":0,"available":6},
+    {"employee_email":"ananya.rao@demo.com","leave_type":"Personal","year":2026,"total":3,"used":1,"pending":0,"available":2},
+    {"employee_email":"rohan.kumar@demo.com","leave_type":"Annual","year":2026,"total":18,"used":9,"pending":0,"available":9},
+    {"employee_email":"kiran.patel@demo.com","leave_type":"Annual","year":2026,"total":18,"used":15,"pending":0,"available":3},
+    {"employee_email":"meera.shah@demo.com","leave_type":"Annual","year":2026,"total":18,"used":3,"pending":0,"available":15},
+    {"employee_email":"arjun.das@demo.com","leave_type":"Annual","year":2026,"total":18,"used":8,"pending":0,"available":10}
+  ]
+}
